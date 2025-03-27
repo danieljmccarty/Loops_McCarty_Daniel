@@ -1,0 +1,14 @@
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\bin\Debug\net7.0\Loops_McCarty_Daniel.exe
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\bin\Debug\net7.0\Loops_McCarty_Daniel.deps.json
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\bin\Debug\net7.0\Loops_McCarty_Daniel.runtimeconfig.json
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\bin\Debug\net7.0\Loops_McCarty_Daniel.dll
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\bin\Debug\net7.0\Loops_McCarty_Daniel.pdb
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\Loops_McCarty_Daniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\Loops_McCarty_Daniel.AssemblyInfoInputs.cache
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\Loops_McCarty_Daniel.AssemblyInfo.cs
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\Loops_McCarty_Daniel.csproj.CoreCompileInputs.cache
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\Loops_McCarty_Daniel.dll
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\refint\Loops_McCarty_Daniel.dll
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\Loops_McCarty_Daniel.pdb
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\Loops_McCarty_Daniel.genruntimeconfig.cache
+C:\Users\DANIELMCCARTY\source\repos\Loops_McCarty_Daniel\obj\Debug\net7.0\ref\Loops_McCarty_Daniel.dll

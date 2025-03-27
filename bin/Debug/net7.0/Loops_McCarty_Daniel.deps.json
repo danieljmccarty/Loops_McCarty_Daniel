@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Loops_McCarty_Daniel/1.0.0": {
+        "runtime": {
+          "Loops_McCarty_Daniel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loops_McCarty_Daniel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
